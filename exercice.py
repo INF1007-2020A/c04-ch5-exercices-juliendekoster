@@ -16,20 +16,36 @@ def convert_to_absolute(number: float) -> float:
 
 def use_prefixes() -> List[str]:
     prefixes, suffixe = 'JKLMNOPQ', 'ack'
+    word_list:[]
+    for pre in prefixes:
+        word_list.append(pre + suffixe)
+        
 
-    return [""]
+    return word_list
 
 
 def prime_integer_summation() -> int:
-    return 0
+    number_list[1, 2, 3, 4, 5, 6, 7, 8, 9,]
+    n = 2
+    while n % 
+    return 
 
 
 def factorial(number: int) -> int:
+    
     return 0
 
 
 def use_continue() -> None:
-    pass
+    for i in range[1, 11]:
+        if i == 5:
+            continue
+        print(i)
+        
+        
+        
+    
+    
 
 
 def verify_ages(groups: List[List[int]]) -> List[bool]:
